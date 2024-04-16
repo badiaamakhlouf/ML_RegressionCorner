@@ -1,2 +1,1 @@
-# Machine Learning : Supervised Learning 
-# Regression Analysis
+# Machine Learning : Regression Analysis
